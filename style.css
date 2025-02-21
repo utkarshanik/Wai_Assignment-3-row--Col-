@@ -95,10 +95,11 @@ body{
         width: 30px;
         float: right;
     }
-    /* .card-size
+    .card-size
     {
         width:18.8rem; 
-    } */
+        /* padding: 1px !important; */
+    }
     /* -----------------MAIN AREA------------------------- */
     .mob
     {
@@ -113,9 +114,10 @@ body{
     {
         font-size: 12px;
     }
-    .card
+    .cardf
     {
         background-color: #FFFFFF;
+        /* padding: 5px !important; */
     }
     
     .git img
